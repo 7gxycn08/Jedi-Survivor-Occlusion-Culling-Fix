@@ -1,2 +1,2 @@
 # Jedi-Survivor-Occlusion-Culling-Fix
-Mod that fixes Occlusion Culling White Flashes.
+Mod that reduces Occlusion Culling White Flashes by up to 95%.
